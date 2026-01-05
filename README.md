@@ -1,7 +1,4 @@
-# Intelligent Complaint Analysis for Financial Services
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A comprehensive analysis system for processing and analyzing financial service complaints using natural language processing and machine learning techniques.
 
@@ -16,14 +13,6 @@ This project aims to analyze consumer complaints in the financial services secto
 - **Text Processing**: Advanced text cleaning and normalization
 - **Modular Architecture**: Well-organized codebase with separate modules for different tasks
 - **Reproducible Analysis**: Jupyter notebooks for interactive analysis and visualization
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Intelligent-Complaint-Analysis-for-Financial-Services.git
-   cd Intelligent-Complaint-Analysis-for-Financial-Services
-   ```
 
 2. Create and activate a virtual environment (recommended):
    ```bash
@@ -74,16 +63,4 @@ This project aims to analyze consumer complaints in the financial services secto
 - langchain
 - fastapi
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- CFPB Consumer Complaint Database
-- Open-source community for the amazing libraries used in this project
-Building a RAG-Powered Chatbot to Turn Customer Feedback into Actionable Insights
